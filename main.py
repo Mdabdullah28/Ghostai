@@ -11,7 +11,7 @@ def ai(txt):
     return response.text
 
 
-st.title("Ghost AI assistant")
+st.title("Ghost")
 
 command=st.chat_input("HOW CAN I HELP YOU?")
 
